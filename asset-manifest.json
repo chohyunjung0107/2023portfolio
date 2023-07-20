@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hyunjung-portforilo/static/css/main.073c9b0a.css",
-    "main.js": "/hyunjung-portforilo/static/js/main.cb8eb465.js",
-    "static/js/787.93940612.chunk.js": "/hyunjung-portforilo/static/js/787.93940612.chunk.js",
-    "index.html": "/hyunjung-portforilo/index.html",
-    "main.073c9b0a.css.map": "/hyunjung-portforilo/static/css/main.073c9b0a.css.map",
-    "main.cb8eb465.js.map": "/hyunjung-portforilo/static/js/main.cb8eb465.js.map",
-    "787.93940612.chunk.js.map": "/hyunjung-portforilo/static/js/787.93940612.chunk.js.map"
+    "main.css": "/2023portfolio/pages/static/css/main.073c9b0a.css",
+    "main.js": "/2023portfolio/pages/static/js/main.9705fe6f.js",
+    "static/js/787.93940612.chunk.js": "/2023portfolio/pages/static/js/787.93940612.chunk.js",
+    "index.html": "/2023portfolio/pages/index.html",
+    "main.073c9b0a.css.map": "/2023portfolio/pages/static/css/main.073c9b0a.css.map",
+    "main.9705fe6f.js.map": "/2023portfolio/pages/static/js/main.9705fe6f.js.map",
+    "787.93940612.chunk.js.map": "/2023portfolio/pages/static/js/787.93940612.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cb8eb465.js"
+    "static/js/main.9705fe6f.js"
   ]
 }
