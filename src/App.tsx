@@ -42,7 +42,7 @@ const basicHeight = "797px";
 export const MakeHeader = styled.div`
     width: 100%;
     height: 80px;
-    background: #6666;
+    background: #f8f6f1;
 
     display: flex;
     aline-content: center;
@@ -53,7 +53,7 @@ export const MakeHeader = styled.div`
     left: 0px;
 
     div {
-        width: 50px;
+        width: 100px;
         background: green;
         line-height: 80px;
         margin-left: 1%;
